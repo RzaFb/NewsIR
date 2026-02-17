@@ -1,6 +1,8 @@
 # NewsIR
 
-A Python-based information retrieval system for searching and ranking news articles using TF-IDF and advanced indexing techniques.
+NewsIR is a Python-based information retrieval system designed for efficient searching and ranking of news articles using advanced text processing and TF-IDF-based algorithms. The project demonstrates the core principles of information retrieval, including document indexing, term statistics computation, and query-based ranking, all tailored for a real-world news dataset.
+
+This system enables users to preprocess a collection of news articles, build a positional index for fast term lookups, compute TF-IDF vectors for each document, and perform ranked search queries to retrieve the most relevant articles. The modular design includes utilities for adding new data, managing dictionaries and word statistics, and analyzing term distributions. NewsIR is ideal for students, researchers, and developers interested in natural language processing, search engines, or text mining, and serves as a practical foundation for building more complex IR systems.
 
 ---
 
